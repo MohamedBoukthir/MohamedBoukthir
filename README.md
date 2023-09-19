@@ -10,8 +10,8 @@ IT student with a passion for web development and a keen interest in embedded sy
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [medboukthir7@gmail.com](mailto:medboukthir7@gmail.com)
-* 🧠  I'm learning Next.Js
-* ⚡  I'm in Love With JavaScript . . . . Don't Tell Anyone Please xD
+* 🧠  I'm learning <b> Next.Js </b> And <b> TypeScript </b> 
+* ⚡  I'm in Love With <b> JavaScript </b> . . . . Don't Tell Anyone Please xD
 
 ### Skills
 
