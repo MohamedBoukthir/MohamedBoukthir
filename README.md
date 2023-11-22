@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://wallpapercave.com/wp/wp7664856.png" align="center" style="width: 100%" />
 </div>  
   
 
@@ -14,9 +14,7 @@
 
 - ⚡ I'm in Love With JavaScript . . . . Don't Tell Anyone Please xD  
   
-
 <br/>  
-
 
 ## My Skill Set  
 
@@ -43,9 +41,7 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </div>
 
-
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -59,16 +55,13 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MohamedBoukthir&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MohamedBoukthir&&style=flat-square" align="center" />
