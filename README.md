@@ -1,20 +1,16 @@
-<div align="center">
-<img src="https://wallpapercave.com/wp/wp7664856.png" align="center" style="width: 100%; height: 20%;" />
-</div>  
-  
-
 # ***<div align="center">Hi,  My Name is Mohamed Boukthir 👨‍💻 </div>***  
   
-
 - 🌍 I'm based in Tunisia  
   
-
 - 🧠 I’m currently learning TypeScript and NextJS  
   
-
 - ⚡ I'm in Love With JavaScript . . . . Don't Tell Anyone Please xD  
   
 <br/>  
+
+<div align="center">
+<img src="https://wallpapercave.com/wp/wp7664856.png" align="center" style="width: 100%; height: 20%;" />
+</div>
 
 ## My Skill Set  
 
