@@ -1,5 +1,5 @@
 <!--👋-Banner-->
-<center><img alt="Header" src="/MohamedBoukthir/banner.png"/></center>
+<center><img alt="Header" src="[/MohamedBoukthir/banner.png](https://www.canva.com/design/DAF3VaDFoFk/zcf0t449ntLA-mEtOEwCsg/edit?utm_content=DAF3VaDFoFk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"/></center>
 
 # 🧑🏻‍💻 Mohamed Boukthir
 
