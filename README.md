@@ -34,7 +34,7 @@ Please feel free to reach out to me via my LinkedIn profile.
 
 ---
 
- ## 🧰 Programming languages
+ ### 🧰 Programming languages
 <p>
   <br>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
@@ -43,7 +43,7 @@ Please feel free to reach out to me via my LinkedIn profile.
   <img alt="Python" src="https://img.shields.io/badge/python-306998.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-## Frameworks
+### Frameworks
 <p>
  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
  <img alt="React" src="https://img.shields.io/badge/react-%2300D9FF.svg?style=for-the-badge&logo=react&logoColor=white"/>
@@ -52,7 +52,7 @@ Please feel free to reach out to me via my LinkedIn profile.
  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-## Databases
+### Databases
 <p>
  <img alt="Oracle" src="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -60,7 +60,7 @@ Please feel free to reach out to me via my LinkedIn profile.
 </p>
 
 
-## Tools
+### Tools
 <p>
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -70,7 +70,7 @@ Please feel free to reach out to me via my LinkedIn profile.
   <br>
 </p>
 
-## OS
+### OS
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
