@@ -6,7 +6,7 @@
 **`IT Student | Cybersecurity Specialist with Web Development Skills`** <br>
 **`Email : Medboukthir7@gmail.com`**
 
-### [📊 My Projects](https://github.com/MohamedBoukthir?tab=repositories)
+### [📊 My Projects](https://github.com/stars/MohamedBoukthir/lists/my-work)
 
 
 
