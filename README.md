@@ -1,4 +1,3 @@
-<!--👋-Banner-->
 <center><img alt="Header" src="https://github.com/freeCodeCamp/how-to-contribute-to-open-source/assets/124532428/75d71062-155b-469d-bfe8-fdbc31e4b35c"/></center>
 
 # 🧑🏻‍💻 Mohamed Boukthir
