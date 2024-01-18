@@ -16,9 +16,10 @@ I'm a cybersecurity master's student passionate about keeping digital spaces saf
 On my GitHub, you can find a collection of projects that I have developed from concept to completion, showcasing my ability to turn ideas into functional solutions for real-world challenges through code. Join me on this exciting journey as I aim to contribute to a more secure digital future. 
 
 Please feel free to reach out to me via my LinkedIn profile or email.
-<p>
+
  **`Email : Medboukthir7@gmail.com`**
  <br>
+<p>
 <a href="https://www.linkedin.com/in/mohamedboukthir/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a> 
