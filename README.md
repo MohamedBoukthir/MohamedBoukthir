@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://www.facebook.com/mo74med.b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://github.com/MohamedBoukthir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/hamaboukthir.exe/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohamedboukthir/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /><a href="https://x.com/MedBoukthir_exe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></a></p>
 
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50E3F7&width=435&lines=My+Projects)](https://git.io/typing-svg)(https://github.com/stars/MohamedBoukthir/lists/my-work)
+### [![Typing SVG](https://github.com/stars/MohamedBoukthir/lists/my-work)](https://git.io/typing-svg)
 
 
 
