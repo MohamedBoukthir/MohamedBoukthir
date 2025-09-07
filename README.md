@@ -15,11 +15,14 @@
 
 ---
 ## 👨‍💻 About Me
-I'm a cybersecurity master's student passionate about keeping digital spaces safe. I also have some experience with web development. I love solving tough security problems and want to use my skills in both cybersecurity and web development to make the internet safer and better for everyone.
+🎓 Holder of a **Master’s degree in Cybersecurity (2025)**  
+💡 Passionate about **Web Development & Security**  
+🔒 Focused on building **secure & scalable digital solutions**  
 
-On my GitHub, you can find a collection of projects that I have developed from concept to completion, showcasing my ability to turn ideas into functional solutions for real-world challenges through code. Join me on this exciting journey as I aim to contribute to a more secure digital future. 
+I enjoy solving complex security challenges and bringing ideas to life through code.  
+On my GitHub, you’ll find projects that showcase both my **cybersecurity expertise** and my **web development skills** (Spring Boot, Angular, Docker, etc.).   
 
-Please feel free to reach out to me via my LinkedIn profile or email.
+Please feel free to reach out to me via my LinkedIn profile or email. I’m always open to collaboration and knowledge-sharing.
 
  **`Email : Medboukthir7@gmail.com`**
  <br>
@@ -34,9 +37,14 @@ Please feel free to reach out to me via my LinkedIn profile or email.
 <details>
  <summary>👨‍💻 More on Mohamed's software engineering Journey</summary>
 
-<p>Holder of an Information and Communication university diploma since 2023, I am currently pursuing a master's in cybersecurity, aspiring to deepen my expertise in securing digital environments. Complementing my formal education, I've undertaken extensive self-learning in web development, mastering Java OOP concepts, and acquiring proficiency in various frontend tools.</p>
+🎓 I obtained my **Master’s degree in Cybersecurity (2025)**, after previously earning a **University Diploma in Information and Communication (2023)**.  
 
-<p>Actively seeking opportunities to apply my knowledge, I am poised to contribute to cutting-edge, secure digital solutions.</p>
+Alongside my academic path, I have independently deepened my knowledge in **web development**:  
+✔️ Strong foundations in **Java OOP**  
+✔️ Experience with **frontend frameworks & backend systems**  
+✔️ Continuous learner in **cybersecurity practices**  
+
+🌍 Actively looking for opportunities to contribute to impactful, secure digital solutions.
 </details>
 
 ---
