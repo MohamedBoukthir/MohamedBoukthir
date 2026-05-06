@@ -1,0 +1,19 @@
+{
+  "repos": [
+    "MohamedBoukthir/MyPortfolio",
+    "MohamedBoukthir/blogball",
+    "MohamedBoukthir/SQL-injection-DEMO",
+    "MohamedBoukthir/readly",
+    "MohamedBoukthir/malware-detection-ml",
+    "MohamedBoukthir/JavaGrowth",
+    "MohamedBoukthir/PhotoCapture",
+    "MohamedBoukthir/webSecurity",
+    "MohamedBoukthir/FileEnc",
+    "MohamedBoukthir/crypto",
+    "MohamedBoukthir/XOR-Crypto",
+    "MohamedBoukthir/Doctor-Appointment-Booking-MERN-Stack",
+    "MohamedBoukthir/Wave",        
+    "MohamedBoukthir/authentication_-NODE.JS-MongoDb-Express.-Js-"
+  ],
+  "exclude_languages": ["Markdown", "Text", "json", "yaml"]
+}

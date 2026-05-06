@@ -1,115 +1,92 @@
-<center><img alt="Header" src="https://github.com/freeCodeCamp/how-to-contribute-to-open-source/assets/124532428/75d71062-155b-469d-bfe8-fdbc31e4b35c"/></center>
-
-# 🧑🏻‍💻 Mohamed Boukthir
-
-**`IT Student | Cybersecurity Specialist with Web Development Skills`** <br>
-
-### [📊 My Projects](https://github.com/stars/MohamedBoukthir/lists/my-work)
-
-
-
----
-## 👨‍💻 About Me
-🎓 Holder of a **Master’s degree in Cybersecurity (2025)**  
-💡 Passionate about **Web Development & Security**  
-🔒 Focused on building **secure & scalable digital solutions**  
-
-I enjoy solving complex security challenges and bringing ideas to life through code.  
-On my GitHub, you’ll find projects that showcase both my **cybersecurity expertise** and my **web development skills** (Spring Boot, Angular, Docker, etc.).   
-
-Please feel free to reach out to me via my LinkedIn profile or email. I’m always open to collaboration and knowledge-sharing.
-
- **`Email : Medboukthir7@gmail.com`**
- <br>
-<p>
-<a href="https://www.linkedin.com/in/mohamedboukthir/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> 
-<br>
-</p>
-
-
-<details>
- <summary>👨‍💻 More on Mohamed's software engineering Journey</summary>
-
-🎓 I obtained my **Master’s degree in Cybersecurity (2025)**, after previously earning a **University Diploma in Information and Communication (2023)**.  
-
-Alongside my academic path, I have independently deepened my knowledge in **web development**:  
-✔️ Strong foundations in **Java OOP**  
-✔️ Experience with **frontend frameworks & backend systems**  
-✔️ Continuous learner in **cybersecurity practices**  
-
-🌍 Actively looking for opportunities to contribute to impactful, secure digital solutions.
-</details>
-
----
-
- ### 🧰 Programming languages
-<p>
-  <br>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-306998.svg?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### Frameworks
-<p>
- <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
- <img alt="React" src="https://img.shields.io/badge/react-%2300D9FF.svg?style=for-the-badge&logo=react&logoColor=white"/>
- <img alt="Next.js" src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
- <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
- <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### Databases
-<p>
- <img alt="Oracle" src="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
- <img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-
-### Tools
-<p>
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <br>
-</p>
-
-### OS
-<p>
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-<details>
-<summary>
-<h2>👾 More tools</h2>
-</summary>
-<!--Creaative-->
-<p>
-  <br>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="DaisyUI" src="https://img.shields.io/badge/DaisyUI-%23323330.svg?style=for-the-badge&logo=DaisyUI&logoColor=white"/>
-  <img alt="Shadcn" src="https://img.shields.io/badge/Shadcn-%23007ACC.svg?style=for-the-badge&logo=Shadcn&logoColor=white"/>
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-
-</p>
-</details>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<!-- Profile Trophies -->
 <div align="center">
-<a href="https://github.com/MohamedBoukthir">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedBoukthir&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedBoukthir&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedBoukthir&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohamedBoukthir&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedBoukthir&theme=2077" height="180em" />
+    <a href="https://github.com/MohamedBoukthir/github-profile-trophy">
+        <img src="https://github-profile-trophy-phi-jet.vercel.app/?username=MohamedBoukthir&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+    </a>
 </div>
+
+<!-- LOC Stats SVG -->
+<div align="center">
+<!-- LOC-STATS:START -->
+<img src="./loc-stats.svg" alt="LOC Stats" width="84%" />
+<!-- LOC-STATS:END -->
+</div>
+
+<!-- Github Stats -->
+<p align="center">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="5%"> <strong>Github Stats</strong>
+</p>
+
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats-eight-sand-93.vercel.app/api?username=MohamedBoukthir&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=highcontrast&hide_border=true&border_radius=5" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-streak-stats-ten-blush.vercel.app?user=MohamedBoukthir&theme=highcontrast&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+</p>
+
+<br>
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=3000&pause=200&color=b30000&width=435&lines=🍄+Mohamed+Boukthir;Security+Software+Engineer" alt="Security Software Engineer🍄"/>
+</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">  **Skills**
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,ts,html,tailwind,angular,spring,github,docker,postgres,mongodb,mysql)](https://skillicons.dev)
+
+### Tools:
+[![My Tools](https://skillicons.dev/icons?i=postman,idea,vscode)](https://skillicons.dev)
+
+### Development Environments:
+![Windows](https://img.shields.io/badge/Windows-b30000.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-b30000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-b30000.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<!-- Social Links -->
+<div align="center">
+  <a href="mailto:medboukthir7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/mohamedboukthir/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+ <!-- <a href="https://aal1x-jobhub.github.io/jobhub-landing/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a> -->
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35> ***About me***
+
+🎓 As a holder of a Master’s degree in Cybersecurity, my primary focus is on building and defending secure digital environments. I am now channeling my professional energy from web development to specialize deeply in the field of security.
+
+My prior experience in developing full-stack applications gives me a practical understanding of how systems are built, which I now leverage to identify and mitigate vulnerabilities effectively. I am driven by the challenge of architecting and implementing robust security solutions.
+
+To further my expertise, I am currently focused on:
+
+- 🧙‍♂️ I’m currently learning ...
+  -   *Shell scripting*
+  -   *Advanced Python for penetration testing and analysis*
+  -   *Linux system hardening and administration*
+- 👻 I am a fast and continuous learner, taking a methodical, step-by-step approach to mastering new skills..
+- 🫡 I am actively seeking opportunities where I can apply my dedicated cybersecurity knowledge and contribute to creating resilient, secure systems. I'm always open to connecting with fellow security professionals.
+- 😎 Reach out to me at: <a href="medboukthir7@gmail.com">medboukthir7@gmail.com</a>
+- 👽 [Portfolio](https://mohamedboukthir.vercel.app/)
+<br>
+
+<table>
+<tr>
+<td width="200px">
+<img width="200px" alt="Obito" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZ1Y3piZnRlOWxncG9hMDR3djVqYTU4aXFrZGRzMHN3OWF4aXNlZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/K4rDu65eHSsNO/giphy.gif"/>
+</td>
+<td>
+<img width="600px" alt="Snake" src="./dist/ocean.gif"/>
+</td>
+</tr>
+</table>
+
+
 
