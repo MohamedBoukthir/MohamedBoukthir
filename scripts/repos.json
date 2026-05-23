@@ -1,6 +1,6 @@
 {
   "repos": [
-    "MohamedBoukthir/MyPortfolio",
+    "MohamedBoukthir/portfolio",
     "MohamedBoukthir/blogball",
     "MohamedBoukthir/SQL-injection-DEMO",
     "MohamedBoukthir/readly",
@@ -12,7 +12,7 @@
     "MohamedBoukthir/crypto",
     "MohamedBoukthir/XOR-Crypto",
     "MohamedBoukthir/Wave",
-    "MohamedBoukthir/Internsat",
+    "MohamedBoukthir/Internsat"
   ],
   "exclude_languages": ["Markdown", "Text", "json", "yaml"]
 }
