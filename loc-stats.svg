@@ -11,7 +11,7 @@
   <rect x="10" y="10" width="780" height="3" fill="url(#accent-gradient)" rx="1.5"/>
 
   <text x="40" y="55" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="32" font-weight="700" fill="#ffffff">
-    106,317
+    110,597
   </text>
   <text x="40" y="80" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="14" fill="#ffffff">
     LINES OF CODE
@@ -36,65 +36,65 @@
   <rect x="180" y="148" width="450" height="16" fill="#21262d" rx="4"/>
   <rect x="180" y="148" width="450.0" height="16" fill="#b30000" rx="4" opacity="0.8"/>
   <text x="650" y="160" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff">
-    68,136
+    72,416
   </text>
   <text x="760" y="160" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff" text-anchor="end">
-    64.1%
+    65.5%
   </text>
 
   <text x="40" y="185" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" fill="#ffffff">
     TypeScript
   </text>
   <rect x="180" y="173" width="450" height="16" fill="#21262d" rx="4"/>
-  <rect x="180" y="173" width="137.46477632969356" height="16" fill="#00CED1" rx="4" opacity="0.8"/>
+  <rect x="180" y="173" width="129.3402010605391" height="16" fill="#00CED1" rx="4" opacity="0.8"/>
   <text x="650" y="185" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff">
     20,814
   </text>
   <text x="760" y="185" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff" text-anchor="end">
-    19.6%
+    18.8%
   </text>
 
   <text x="40" y="210" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" fill="#ffffff">
     YAML
   </text>
   <rect x="180" y="198" width="450" height="16" fill="#21262d" rx="4"/>
-  <rect x="180" y="198" width="42.26179992955266" height="16" fill="#58a6ff" rx="4" opacity="0.8"/>
+  <rect x="180" y="198" width="39.76400243040212" height="16" fill="#58a6ff" rx="4" opacity="0.8"/>
   <text x="650" y="210" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff">
     6,399
   </text>
   <text x="760" y="210" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff" text-anchor="end">
-    6.0%
+    5.8%
   </text>
 
   <text x="40" y="235" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" fill="#ffffff">
     Java
   </text>
   <rect x="180" y="223" width="450" height="16" fill="#21262d" rx="4"/>
-  <rect x="180" y="223" width="32.22965833039803" height="16" fill="#b07219" rx="4" opacity="0.8"/>
+  <rect x="180" y="223" width="30.324790101635" height="16" fill="#b07219" rx="4" opacity="0.8"/>
   <text x="650" y="235" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff">
     4,880
   </text>
   <text x="760" y="235" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff" text-anchor="end">
-    4.6%
+    4.4%
   </text>
 
   <text x="40" y="260" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" fill="#ffffff">
     HTML
   </text>
   <rect x="180" y="248" width="450" height="16" fill="#21262d" rx="4"/>
-  <rect x="180" y="248" width="13.023952095808385" height="16" fill="#e34c26" rx="4" opacity="0.8"/>
+  <rect x="180" y="248" width="12.254197967300044" height="16" fill="#e34c26" rx="4" opacity="0.8"/>
   <text x="650" y="260" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff">
     1,972
   </text>
   <text x="760" y="260" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff" text-anchor="end">
-    1.9%
+    1.8%
   </text>
 
   <text x="40" y="285" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" fill="#ffffff">
     Shell
   </text>
   <rect x="180" y="273" width="450" height="16" fill="#21262d" rx="4"/>
-  <rect x="180" y="273" width="7.007308911588588" height="16" fill="#89e051" rx="4" opacity="0.8"/>
+  <rect x="180" y="273" width="6.593156208572691" height="16" fill="#89e051" rx="4" opacity="0.8"/>
   <text x="650" y="285" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff">
     1,061
   </text>
