@@ -14,5 +14,5 @@
     "MohamedBoukthir/Wave",
     "MohamedBoukthir/Internsat"
   ],
-  "exclude_languages": ["Markdown", "Text", "json", "yaml"]
+  "exclude_languages": ["Markdown", "Text", "JSON", "YAML"]
 }
